@@ -1,2 +1,2 @@
-# cv
-project related files for Jason's blog
+# Personal Site
+website that I built
